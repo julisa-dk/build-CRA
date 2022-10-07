@@ -1,1 +1,2 @@
-# build-CRA
+# Install
+npm i react-icons
